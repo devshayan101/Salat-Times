@@ -1,0 +1,16 @@
+.footer-container {
+    background-image: url("../../../public/assets/img/footer.png");
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover; /* or contain */
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+
+    height: 3rem;
+    /* max-width: 700px; */
+}
+  
